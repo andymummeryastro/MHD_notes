@@ -1,2 +1,2 @@
-# MHD_notes
-MHD Lecture notes 
+# Magnetohydrodynamics notes
+My lecture materials from the Oxford MHD course
